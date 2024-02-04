@@ -14,10 +14,10 @@ N/A
 
 ## Installation
 
-The web application does not require any installation and will run on most internet browsers. The web application is deployed at this link here and feel free to click and experience its magical works:https://mikemupararano.github.io/search-photo-api/ . The Github repository is on this link: https://github.com/Mikemupararano/search-photo-api/settings/pages.
+The web application does not require any installation and will run on most internet browsers. The web application is deployed at this link here and feel free to click and experience its magical works:https://mikemupararano.github.io/search-photo-api/ . The Github repository is on this link:https://github.com/Mikemupararano/search-photo-api.
 
 ## Usage 
-To have an idea of what is in this web application, please click on this link: https://mikemupararano.github.io/search-photo-api/. The Github repository is on this link:https://github.com/Mikemupararano/search-photo-api/settings/pages .
+To have an idea of what is in this web application, please click on this link: https://mikemupararano.github.io/search-photo-api/. The Github repository is on this link:https://github.com/Mikemupararano/search-photo-api .
 ![A screenshot of the default-page:](./assets/images/new-default-image.png)
 ![A screenshot of images from Zimbabwe:](./assets/images/zimbabwe.png)
 ![Screenshot of images about Dubai:](./assets/images/dubai.png)
@@ -45,7 +45,7 @@ N/A
 N/A
 ## Contributing
 
-Any other contributors are welcome to contact me and add to my code or suggest improvements. Click on this link to contribute on improvements: https://github.com/Mikemupararano/search-photo-api/settings/pages.
+Any other contributors are welcome to contact me and add to my code or suggest improvements. Click on this link to contribute on improvements: https://github.com/Mikemupararano/search-photo-api.
 
 ## Tests
 N/A
